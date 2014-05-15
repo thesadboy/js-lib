@@ -1,0 +1,6 @@
+@charset "UTF-8";
+/**
+ * Created by Nick on 14-5-13.
+ */
+.msg-error{ float: left; margin-left: 10px; color: #ff5030; font-size: 0.8em; }
+.input-error{ border: 1px solid #ff5030 !important; box-shadow: 0 0 3px #ff5030 !important; color: #ff5030;}
