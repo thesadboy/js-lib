@@ -1,5 +1,9 @@
 /**
+ * 单项链表
+ * 实现了单项链表的Insert、InsertBefore、InsertAfter、replace、remove、get、swap、getIterator（包含hasNext和next方法）、all方法
+ * 分别为插入（尾插入/某项之前/某项之后）、替换、移除、取值、交换、迭代、所有值，
  * Created by Nick on 14-5-15.
+ *
  */
 (function (window) {
   /**
