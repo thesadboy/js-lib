@@ -7,3 +7,4 @@ js-lib
 - *LinkedList*  **单向链表**
 - *jquery.validate* **基于jquery的表单数据验证插件**
 - *hashmap* **HashMap**
+- *ajaxupload* **基于iframe的上传组件，目前需要前后端配合使用**
